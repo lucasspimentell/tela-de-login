@@ -43,7 +43,9 @@ body {
 }
 
 #botaodiv {
+    
     height: 110px;
+    
 }
 
 #botao {
@@ -56,10 +58,13 @@ body {
     margin-top: 40px;
     margin-left: 75px;
     width: 200px;
-     box-shadow: 2px 2px 3px black;
+    box-shadow: 2px 2px 3px black;
 }
 
-#esqueceu{
+#esqueceudiv{
+    margin-top: 5px;
+
+     
     color: blue;
     margin-left: 120px;
 }
